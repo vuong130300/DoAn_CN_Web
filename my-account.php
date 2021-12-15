@@ -51,24 +51,7 @@
                                 <li>
                                     <i class="fab fa-opencart"></i> 50% - 80% off on Fashion
                                 </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT20
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 10%! Shop Now Man
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 50% - 80% off on Fashion
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> 20% off Entire Purchase Promo code: offT20
-                                </li>
-                                <li>
-                                    <i class="fab fa-opencart"></i> Off 50%! Shop Now
-                                </li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -114,8 +97,8 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Product</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
