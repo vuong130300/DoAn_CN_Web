@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 <!-- Basic -->
 
 <head>
@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>ThewayShop - Ecommerce Bootstrap 4 HTML Template</title>
+    <title>ThewayShop - Ecommerce Bootstrap 4 php Template</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="css/custom.css">
 
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/php5shiv/3.7.0/php5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
@@ -107,15 +107,15 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" class="logo" alt=""></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" class="logo" alt=""></a>
                 </div>
                 <!-- End Header Navigation -->
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Product</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -125,10 +125,10 @@
                                             <h6 class="title">Top</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="shop.html">Jackets</a></li>
-                                                    <li><a href="shop.html">Shirts</a></li>
-                                                    <li><a href="shop.html">Sweaters & Cardigans</a></li>
-                                                    <li><a href="shop.html">T-shirts</a></li>
+                                                    <li><a href="shop.php">Jackets</a></li>
+                                                    <li><a href="shop.php">Shirts</a></li>
+                                                    <li><a href="shop.php">Sweaters & Cardigans</a></li>
+                                                    <li><a href="shop.php">T-shirts</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -137,10 +137,10 @@
                                             <h6 class="title">Bottom</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="shop.html">Swimwear</a></li>
-                                                    <li><a href="shop.html">Skirts</a></li>
-                                                    <li><a href="shop.html">Jeans</a></li>
-                                                    <li><a href="shop.html">Trousers</a></li>
+                                                    <li><a href="shop.php">Swimwear</a></li>
+                                                    <li><a href="shop.php">Skirts</a></li>
+                                                    <li><a href="shop.php">Jeans</a></li>
+                                                    <li><a href="shop.php">Trousers</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -149,10 +149,10 @@
                                             <h6 class="title">Clothing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="shop.html">Top Wear</a></li>
-                                                    <li><a href="shop.html">Party wear</a></li>
-                                                    <li><a href="shop.html">Bottom Wear</a></li>
-                                                    <li><a href="shop.html">Indian Wear</a></li>
+                                                    <li><a href="shop.php">Top Wear</a></li>
+                                                    <li><a href="shop.php">Party wear</a></li>
+                                                    <li><a href="shop.php">Bottom Wear</a></li>
+                                                    <li><a href="shop.php">Indian Wear</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -160,10 +160,10 @@
                                             <h6 class="title">Accessories</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="shop.html">Bags</a></li>
-                                                    <li><a href="shop.html">Sunglasses</a></li>
-                                                    <li><a href="shop.html">Fragrances</a></li>
-                                                    <li><a href="shop.html">Wallets</a></li>
+                                                    <li><a href="shop.php">Bags</a></li>
+                                                    <li><a href="shop.php">Sunglasses</a></li>
+                                                    <li><a href="shop.php">Fragrances</a></li>
+                                                    <li><a href="shop.php">Wallets</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -176,15 +176,15 @@
                         <li class="dropdown active">
                             <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">SHOP</a>
                             <ul class="dropdown-menu">
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="shop-detail.html">Shop Detail</a></li>
+                                <li><a href="cart.php">Cart</a></li>
+                                <li><a href="checkout.php">Checkout</a></li>
+                                <li><a href="my-account.php">My Account</a></li>
+                                <li><a href="wishlist.php">Wishlist</a></li>
+                                <li><a href="shop-detail.php">Shop Detail</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="service.html">Our Service</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact-us.html">Contact Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="service.php">Our Service</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -508,7 +508,7 @@
     <!-- Start copyright  -->
     <div class="footer-copyright">
         <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :
-            <a href="https://html.design/">html design</a></p>
+            <a href="https://php.design/">php design</a></p>
     </div>
     <!-- End copyright  -->
 
@@ -532,4 +532,4 @@
     <script src="js/custom.js"></script>
 </body>
 
-</html>
+</php>
