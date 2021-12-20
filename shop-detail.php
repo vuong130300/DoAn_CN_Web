@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 <!-- Basic -->
 
 <head>
@@ -10,7 +10,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>ThewayShop</title>
+
+    <title>ThewayShop </title>
+
+   
+
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
